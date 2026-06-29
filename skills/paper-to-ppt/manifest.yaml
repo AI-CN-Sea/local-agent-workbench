@@ -1,0 +1,6 @@
+id: paper-to-ppt
+name: Paper To PPT
+version: 0.1.0
+category: presentation
+status: readonly_placeholder
+description: Read-only metadata package for paper-to-presentation planning.

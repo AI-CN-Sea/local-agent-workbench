@@ -1,0 +1,6 @@
+id: academic-writing
+name: Academic Writing
+version: 0.1.0
+category: writing
+status: readonly_placeholder
+description: Read-only metadata package for academic writing pipeline planning.

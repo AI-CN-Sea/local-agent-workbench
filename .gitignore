@@ -1,0 +1,40 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/.venv/
+backend/.venv_old/
+agentwork/
+
+# Node/Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/tsconfig.tsbuildinfo
+node_modules/
+dist/
+
+# Local runtime data
+backend/*.db
+backend/*.db*
+backend/*.db-journal
+backend/*.sqlite*
+*.sqlite
+*.sqlite*
+backend/write_probe.txt
+projects/
+
+# Logs/temp/backups
+*.log
+*.tmp
+*.bak
+*.bak*
+
+# Secrets/local config
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
