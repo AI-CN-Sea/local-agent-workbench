@@ -1,0 +1,6 @@
+id: diagram-generation
+name: Diagram Generation
+version: 0.1.0
+category: diagram
+status: readonly_placeholder
+description: Read-only metadata package for diagram planning and specification.

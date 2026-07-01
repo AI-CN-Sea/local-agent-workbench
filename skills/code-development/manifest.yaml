@@ -1,0 +1,6 @@
+id: code-development
+name: Code Development
+version: 0.1.0
+category: code
+status: readonly_placeholder
+description: Read-only metadata package for local controlled code development planning.
